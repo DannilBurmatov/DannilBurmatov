@@ -6,6 +6,6 @@ https://profile-summary-for-github.com/user/Salpuga
 
 👨‍💻You can contact me via work mail: burmatovdd@gmail.com.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salpuga)](https://github.com/Salpuga/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salpuga)](https://github.com/Salpuga)
 
 
